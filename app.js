@@ -20,7 +20,9 @@ var classArray = [
                   "Klondike",
                   "Jazzhands",
                   "Chalupa",
-                  "Batman"
+                  "Batman",
+                  "Liz",
+                  "Liz"
 ];
 $(document).ready(function(){
 
